@@ -1,0 +1,3 @@
+This is my first html/css project from the Odin Project and is the first project that I have completed and put on github. It took me a long time especially w/r/t positioning and layout in css. I'm still not confident, but I have progressed little by little to this point and will keep pushing myself to improve and learn.
+
+From the Odin Project's [curriculum](http://theodinproject.com/web-development-101/html-css)

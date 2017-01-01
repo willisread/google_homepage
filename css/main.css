@@ -75,7 +75,7 @@ a:visted {
 }
 
 .main {
-	height: 410px;
+	height: 390px;
 	width: 640px;
 	position: relative;
 	text-align: center;
@@ -107,7 +107,7 @@ a:visted {
 
 footer {
 	width: 100%;
-	height: 60px;
+	height: 40px;
 	border-top: thin solid black;
 	background-color: #ffefd5;
 }
